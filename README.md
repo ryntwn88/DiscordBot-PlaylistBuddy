@@ -5,6 +5,6 @@ During the pandemic lockdown in 2020 my friends were sharing a lot of links to m
 
 The script in this repository is a template to demonstrate how I approached the task.  If you wish to use the code you will need to fill in the keys for various API services (Discord, Spotify, and YouTube) and specify the playlists on each service you want to update.  I know that the code here is not the most pretty or efficient (I am still learning) and would welcome suggestions for improvements.
 
-![example](https://github.com/ryntwn88/DiscordBot-PlaylistBuddy/blob/main/dpb_screenshot.png?raw=true)
+![example](https://github.com/ryntwn88/DiscordBot-PlaylistBuddy/blob/main/dpb_screenshot.PNG?raw=true)
 
 
