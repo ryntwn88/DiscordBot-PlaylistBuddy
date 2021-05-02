@@ -1,9 +1,11 @@
 #### Playlist Buddy Discord Bot 
 #### Scrapes Discord server channel for links to songs/albums and updates YouTube & Spotify playlists
-#### Note: This is the template with placeholders for key information such as playlist ID's and secrect
+#### Notes: This is the template with placeholders for key information such as playlist ID's and secrect
 ####        keys to use Discord, YouTube, and Spotify API's. See documentation for discord.py, spotipy, and ytmusicapi
 ####        for assistance in getting this set up for your own usage.
-####        The BotKeys folder is currently empty, but you can save your keys there and update file names in code below.
+####        This implementation has the bot respond to a command sent via Discord message.
+####        For some cases, running as a background service that checks for new messages at some regular frequency may be better.
+
 
 # Importing Libraries
 import discord
